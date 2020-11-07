@@ -12,7 +12,12 @@ You are to oversample the data using the RandomOverSampler and SMOTE algorithms,
 | **Oversampling** | **Smote** |
 |:----------------:|:---------:|
 | ![oversampling](images/oversampling.png) | ![smote](images/smote.png) |
+| ![over_score](images/over_score.png) | ![smote_score](images/smote_score.png) |
 | **Undersampling** | **Smoteenn** |
 | ![undersampling](images/undersampling.png) | ![smoteenn](images/smoteenn.png) |
+| ![under_score](images/under_score.png) | ![smoteenn_score](images/smoteenn_score.png) |
 | **Random Forest** | **Adaboost** |
 | ![random_forest](images/random_forest.png) | ![adaboost](images/adaboost.png) |
+| ![forest_score](images/forest_score.png) | ![adaboost_score](images/adaboost_score.png) |
+
+- 
