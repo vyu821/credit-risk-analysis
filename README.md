@@ -20,4 +20,12 @@ You are to oversample the data using the RandomOverSampler and SMOTE algorithms,
 | ![random_forest](images/random_forest.png) | ![adaboost](images/adaboost.png) |
 | ![forest_score](images/forest_score.png) | ![adaboost_score](images/adaboost_score.png) |
 
-- 
+- Oversampling has a balanced accuracy score of **.6466**, precision of **.99**, and a recall score of **.55**
+- Undersampling has a balanced accuracy score of **.5442**, precision of **.99**, and a recall score of **.44**
+- Smote has a balanced accuracy score of **.6624**, precision of **.99**, and a recall score of **..69**
+- Smoteenn has a balanced accuracy score of **.6401**, precision of **.99**, and a recall score of **.58**
+- Random_forest has a balanced accuracy score of **.7885**, precision of **.99**, and a recall score of **.87**
+- Adaboost has a balanced accuracy score of **.9317**, precision of **.99**, and a recall score of **.94**
+
+## Challenge Summary
+All 6 machine learning models are great to use with varying degrees of accuracy and efficiency. A recommendation would be the Adaboost model as it has the highest accuracy, precision, and recall score out of the 6 models shown here.
