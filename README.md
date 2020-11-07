@@ -10,7 +10,7 @@ You are to oversample the data using the RandomOverSampler and SMOTE algorithms,
 ## Challenge Results
 
 | **Oversampling** | **Smote** |
-|:--------------------------------------:|
+|:----------------:|:---------:|
 | ![oversampling](images/oversampling.png) | ![smote](images/smote.png) |
 | **Undersampling** | **Smoteenn** |
 | ![undersampling](images/undersampling.png) | ![smoteenn](images/smoteenn.png) |
